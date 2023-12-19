@@ -1,4 +1,11 @@
 # ericzc2-srzhu3-sgrover4-ztg2
+
+## Project description
+
+Final project for UIUC's CS 225 (Data Structures) class. Our team used an "inverse" Pagerank algorithm on the Higgs Twitter Dataset (https://snap.stanford.edu/data/higgs/web/twitter-higgs.html) to determine which users were most influential in the spread of the news of the discovery of the Higgs particle. We then used a force-directed graph algorithm to plot our findings.
+
+## Code info
+
 **Location of code:**
 
 `include/` and `src/` folders
